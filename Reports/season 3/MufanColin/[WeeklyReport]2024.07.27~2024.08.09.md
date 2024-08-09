@@ -11,7 +11,7 @@ CINN 编译器符号推导扩量，Ruff 新 rule 引入计划第二期
 
 1. **任务 1**
 
-    CINN 任务提交 2 个 PR，包括 1 个简单难度算子和 2 个中等难度算子，尚未合入
+    CINN 任务提交 2 个 PR，包括 1 个简单难度算子和 2 个中等难度算子，尚未合入。
 
     - https://github.com/PaddlePaddle/Paddle/pull/67117
     
